@@ -1,4 +1,4 @@
 awesome-charlestonjs
 ====================
 
-Collection of Awesome JavaScripts Modules from the CharlestonJS Community
+Collection of Awesome JavaScript Modules from the CharlestonJS Community
